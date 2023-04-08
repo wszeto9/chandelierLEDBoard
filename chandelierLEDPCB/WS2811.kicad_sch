@@ -2,7 +2,12 @@
 
   (uuid 3e846d15-fd53-4d60-b39f-53edf3035e72)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (date "2023-04-08")
+    (rev "A01")
+  )
 
   (lib_symbols
     (symbol "Device:R_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
