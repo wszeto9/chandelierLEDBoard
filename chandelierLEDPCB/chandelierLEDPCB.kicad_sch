@@ -6,8 +6,8 @@
 
   (title_block
     (title "Main")
-    (date "2023-04-08")
-    (rev "A01")
+    (date "2023-04-24")
+    (rev "B01")
   )
 
   (lib_symbols
@@ -426,8 +426,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 92c3fc45-9bde-4ad6-ad1d-195fee4f6d89)
   )
-  (text "CHANGELOG/NOTES\n\nREV A: Initial Design. Power Requirements: 5V/16A (80W)"
-    (at 19.685 22.86 0)
+  (text "CHANGELOG/NOTES\n\nREV A: Initial Design. Power Requirements: 5V/16A (80W)\n\nRev B: Changed LED to have an electrically isolated EP"
+    (at 17.78 26.035 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fba33dfb-ab80-431d-9e1c-7f90a16c8c17)
   )
