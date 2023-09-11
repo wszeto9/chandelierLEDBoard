@@ -4,6 +4,8 @@ A bright, addressible LED Panel that is used to light up a chandelier prop. Desi
 
 [Interactive BOM](https://htmlpreview.github.io/?https://raw.githubusercontent.com/wszeto9/chandelierLEDBoard/main/Documentation/ibom.html)
 
+[PDF Schematic](https://github.com/wszeto9/chandelierLEDBoard/blob/7fa08e3c27c50bebdd73984cfcca761c36431bdc/Documentation/schematics.pdf)
+
 ![image](Documentation/chandelierLEDPCB.png)
 
 <h2> Features:</h2>
